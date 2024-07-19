@@ -1,0 +1,10 @@
+number_1=2
+number_2=9
+addition=number_1+number_2
+multiplication=number_1*number_2
+division=number_1/number_2
+subtraction=number_1-number_2
+print("Addition of ",number_1 , " And ",number_2," = ",addition)
+print("multiplication of",number_1 ,"and",number_2,"=",multiplication)
+print("division of",number_1,"and",number_2,"=",division)
+print("subtraction of",number_1,"and",number_2,"=",subtraction)
